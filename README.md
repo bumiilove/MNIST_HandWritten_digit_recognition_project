@@ -1,3 +1,6 @@
+# 실습 프로젝트 
+>> https://highfalutin-feet-58f.notion.site/2023-1-c655b77a95ac4f669dfc6bfc15c6bf53?pvs=4
+
 # Collaborating_Rep
 융합 캡스톤 디자인 2 협업 공간
 
